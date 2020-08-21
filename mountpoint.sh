@@ -1,5 +1,5 @@
-Mount - attachment of a filesystem to the directory structure
-Mount Point - used by UNIX-based OS in place of a drive-letter, can be either local or network share (conventionally /mnt or /media)
+# Mount - attachment of a filesystem to the directory structure
+# Mount Point - used by UNIX-based OS in place of a drive-letter, can be either local or network share (conventionally /mnt or /media)
 
 sudo su -
 
